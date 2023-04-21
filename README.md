@@ -1,1 +1,3 @@
-# -curso-react-youtube-teorica
+# Curso de React do Youtube
+
+## Aulas Teoricas
